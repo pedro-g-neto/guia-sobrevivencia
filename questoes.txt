@@ -1,2 +1,4 @@
-Pedro: 
-João:
+Pedro:
+1ª: Porque o repositório local não estava sincronizado com o remoto, sendo necessário dar um git pull.
+2ª: Esse commit cria uma nova branch, que é uma ramificação de desenvolvimento. É importante para que cada desenvolvedor ou time de desenvolvivemnto tenha controle na implementação e testes do projeto. 
+3ª: Caso haja conflitos, o git mostra cada caso e permite que as alterações sejam reorganizadas, impedindo que um desenvolvedor apague o trabalho de outro.
