@@ -1,2 +1,5 @@
-Pedro: 
+
 João:
+1°- Pois o repositorion remoto do Github já possuia alterações enviadas pelo aluno A, então ele fez isso para o trabalho do aluno A não seer perdido.
+2º- Ele é criado para criar ou acessar um anova branch. Na vida real isso permite que em uma equipe, cada um trabalhe em uma funcionalidade sem alterar a banch principal.
+3°- Atravéz do controle de versões, commites e sistema merge. Quando duas pessoas alteram o mesmo arquivo, o git indentifica as diferenças e impede que uma alteração apague a outra sem avisar.
